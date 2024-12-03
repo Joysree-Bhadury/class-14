@@ -1,0 +1,32 @@
+*{padding: 0;
+  margin: 0;
+  box-sizing: border-box;}
+
+.slider-1 {
+    width: 600px;
+    height: 450px;
+    background: aqua;
+    margin: auto;
+}
+
+.sliders {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    background: blueviolet;
+    margin: auto;
+}
+
+.bx-wrapper {
+    background: no-repeat;
+    border: navajowhite;
+    box-shadow: none;
+}
+
+.single-slider {
+    width: 30%;
+}
+
+
+
+
